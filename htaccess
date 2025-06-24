@@ -10,4 +10,4 @@ RewriteRule pomoc pomoc.html
 RewriteRule zarobki-maj zarobki-maj.html
 RewriteRule etap1-praktyka etap1-praktyka.html
 RewriteRule etap2-teoria etap2-teoria.html
-RewriteRule etap3-zespol etap3-zespol.html
+RewriteRule etap3-system etap3-system.html
